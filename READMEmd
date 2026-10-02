@@ -91,4 +91,11 @@ FCFS → maior espera
 ↓  
 Round-Robin → divisão do tempo da CPU  
 ↓  
-Starvation → Aging
+
+---
+
+## Referências
+
+As fontes utilizadas no vídeo, podcast e texto foram consultadas para complementar o conteúdo sobre escalonamento de processos, System Calls e Sistemas Operacionais.
+
+
