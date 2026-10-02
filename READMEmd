@@ -52,3 +52,43 @@ Eu escolheria o **Round-Robin**, pois cada processo recebe um tempo de CPU chama
 **Starvation** acontece quando um processo fica esperando por muito tempo porque outros possuem prioridade maior.
 
 Uma solução é o **Aging**, que aumenta aos poucos a prioridade dos processos que estão esperando, evitando que fiquem sem executar.
+
+---
+
+## Pesquisa Multimídia
+
+### 🎥 Vídeo
+**Tema:** Escalonamento de processos  
+**Fonte:** YouTube  
+**Link:** [Sistemas Operacionais - Escalonamento de Processos](https://www.youtube.com/watch?v=weKa9H88bjY)
+
+O vídeo foi utilizado para entender melhor o funcionamento dos algoritmos de escalonamento.
+
+### 🎧 Áudio / Podcast
+**Tema:** Sistemas Operacionais  
+**Link:** Será adicionado após a escolha de um episódio relacionado ao tema.
+
+### 📄 Texto / Artigo
+**Título:** Sistemas Operacionais – Técnicas de Escalonamento  
+**Fonte:** Universidade Federal do Paraná (UFPR)  
+**Link:** [Acessar material](https://docs.ufpr.br/~jefer/professor/disciplinas/slides/dee355-5-escalonamento.html)
+
+O material apresenta algoritmos como FCFS, SJF, SRTF e Round-Robin.
+
+---
+
+## Síntese Visual
+
+Processo  
+↓  
+System Call  
+↓  
+Modo Kernel  
+↓  
+Escalonador  
+↓  
+FCFS → maior espera  
+↓  
+Round-Robin → divisão do tempo da CPU  
+↓  
+Starvation → Aging
