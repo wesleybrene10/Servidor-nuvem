@@ -14,3 +14,15 @@ A startup CloudData utiliza um servidor de núcleo único para executar dois tip
 Atualmente, o servidor utiliza o algoritmo de escalonamento FCFS (First-Come, First-Served). Os usuários estão enfrentando problemas de responsividade, pois a interface web apresenta travamentos durante a execução dos processos.
 
 Este trabalho busca analisar o funcionamento das chamadas de sistema e do escalonamento de processos, identificando o problema e apresentando uma possível solução.
+
+---
+
+## Parte A – Chamadas de Sistema
+
+### 1. Como o processo solicita a leitura?
+
+O processo faz uma **System Call**, pedindo para o Sistema Operacional realizar a leitura no disco, já que ele não pode acessar o hardware diretamente.
+
+### 2. O que acontece nessa solicitação?
+
+O processo está em **Modo Usuário**. Ao fazer a System Call, o sistema passa para o **Modo Kernel**, onde tem permissão para acessar o hardware e realizar a operação. Depois, retorna ao Modo Usuário.
