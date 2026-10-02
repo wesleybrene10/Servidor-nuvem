@@ -26,3 +26,15 @@ O processo faz uma **System Call**, pedindo para o Sistema Operacional realizar 
 ### 2. O que acontece nessa solicitação?
 
 O processo está em **Modo Usuário**. Ao fazer a System Call, o sistema passa para o **Modo Kernel**, onde tem permissão para acessar o hardware e realizar a operação. Depois, retorna ao Modo Usuário.
+
+---
+
+## Parte B – Escalonador
+
+### 1. Por que o FCFS causa o congelamento?
+
+O **FCFS** executa os processos pela ordem de chegada. Se um processo pesado estiver usando a CPU, os processos da interface precisam esperar, causando demora na resposta.
+
+### 2. O que significa não preemptivo?
+
+Significa que o processo que está usando a CPU não é interrompido para outro executar. Ele continua até terminar ou ficar bloqueado, fazendo os outros processos esperarem.
