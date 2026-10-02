@@ -38,3 +38,17 @@ O **FCFS** executa os processos pela ordem de chegada. Se um processo pesado est
 ### 2. O que significa não preemptivo?
 
 Significa que o processo que está usando a CPU não é interrompido para outro executar. Ele continua até terminar ou ficar bloqueado, fazendo os outros processos esperarem.
+
+---
+
+## Parte C – Solução
+
+### 1. Algoritmo escolhido
+
+Eu escolheria o **Round-Robin**, pois cada processo recebe um tempo de CPU chamado **quantum**. Quando esse tempo acaba, outro processo pode executar. Assim, a interface não precisa esperar um processo pesado terminar completamente.
+
+### 2. Starvation
+
+**Starvation** acontece quando um processo fica esperando por muito tempo porque outros possuem prioridade maior.
+
+Uma solução é o **Aging**, que aumenta aos poucos a prioridade dos processos que estão esperando, evitando que fiquem sem executar.
