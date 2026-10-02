@@ -1,0 +1,16 @@
+# O Dilema do Servidor em Nuvem
+
+## Diário de Bordo – Sistemas Operacionais
+
+**Aluno:** Wesley Brene Batista  
+**Tema:** Escalonamento de Processos e Chamadas de Sistema
+
+---
+
+## Introdução
+
+A startup CloudData utiliza um servidor de núcleo único para executar dois tipos de processos: processos interativos da aplicação web e processos em lote (batch), responsáveis pela geração de relatórios.
+
+Atualmente, o servidor utiliza o algoritmo de escalonamento FCFS (First-Come, First-Served). Os usuários estão enfrentando problemas de responsividade, pois a interface web apresenta travamentos durante a execução dos processos.
+
+Este trabalho busca analisar o funcionamento das chamadas de sistema e do escalonamento de processos, identificando o problema e apresentando uma possível solução.
