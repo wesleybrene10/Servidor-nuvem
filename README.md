@@ -121,7 +121,7 @@ O vídeo e o texto explicam o escalonamento: o FCFS pode atrasar tarefas interat
 
 ## Referências
 
-AUGUSTA, Juliana. **Sistemas Operacionais, para que serve!** In: Sistemas Operacionais. [S. l.]: Juliana Augusta, 25 abr. 2021. Podcast. Disponível em: https://podcasts.apple.com/us/podcast/sistemas-operacionais/id1565021712?l=pt-BR. Acesso em: 8 out. 2026.
+ALURA. **SQL e MySQL – Hipsters Ponto Tech #404**. [S. l.]: Alura, 2 abr. 2024. Podcast (36 min). Disponível em: https://www.alura.com.br/podcast/hipsterstech-sql-e-mysql-hipsters-ponto-tech-404-a9270. Acesso em: 8 out. 2026.
 
 DÖRR, Jéfer Benedett. **Escalonamento de Processos no Linux**. Palotina: Universidade Federal do Paraná, [s.d.]. Material didático online. Disponível em: https://docs.ufpr.br/~jefer/professor/disciplinas/slides/dee355pratica-escalonadores.html. Acesso em: 8 out. 2026.
 
