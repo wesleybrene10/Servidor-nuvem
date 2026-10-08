@@ -81,16 +81,17 @@ A aula explica o escalonamento em sistemas interativos, incluindo Round-Robin e 
 
 ### 🎧 Áudio / Podcast
 
-**Tema:** Sistemas Operacionais  
-**Fonte:** Apple Podcasts  
-**Autora:** Juliana Augusta  
-**Título:** Sistemas Operacionais, para que serve!
+**Tema:** Banco de Dados – SQL e MySQL  
+**Fonte:** Alura – Hipsters Ponto Tech  
+**Título:** SQL e MySQL – Hipsters Ponto Tech #404
 
 **Link:**
 
-https://podcasts.apple.com/us/podcast/sistemas-operacionais/id1565021712?l=pt-BR
+https://www.alura.com.br/podcast/hipsterstech-sql-e-mysql-hipsters-ponto-tech-404-a9270
 
-O áudio apresenta uma breve introdução aos objetivos e às funções dos sistemas operacionais, complementando o tema do trabalho.
+O episódio aborda SQL, MySQL e o trabalho com bancos de dados.
+
+Relacionando o tema ao caso da CloudData, consultas e relatórios dependem de processamento e acesso aos dados armazenados. O Sistema Operacional gerencia a CPU e as operações de entrada e saída usadas pelo SGBD. Assim, o podcast complementa o contexto de banco de dados, enquanto o vídeo e o texto fundamentam a análise do escalonamento.
 
 ### 📄 Texto / Material didático
 
