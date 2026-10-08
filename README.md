@@ -92,17 +92,17 @@ https://podcasts.apple.com/us/podcast/sistemas-operacionais/id1565021712?l=pt-BR
 
 O áudio apresenta uma breve introdução aos objetivos e às funções dos sistemas operacionais, complementando o tema do trabalho.
 
-### 📄 Texto / Artigo
+### 📄 Texto / Material didático
 
-**Título:** Escalonamento de Processos no Linux  
-**Fonte:** Universidade Federal do Paraná (UFPR)  
-**Autor:** Jéfer Benedett Dörr
+**Título:** Escalonamento de Processos  
+**Fonte:** Instituto Federal da Bahia (IFBA)  
+**Autora:** Flávia Maristela Santos Nascimento
 
 **Link:**
 
-https://docs.ufpr.br/~jefer/professor/disciplinas/slides/dee355pratica-escalonadores.html
+https://ads.ifba.edu.br/dl1017
 
-O material apresenta algoritmos clássicos de escalonamento e ajustes de políticas no Linux.
+O material explica o escalonamento de processos, incluindo FCFS, Round-Robin e prioridades.
 
 ---
 
